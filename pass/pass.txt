@@ -1,0 +1,4 @@
+company-name2, plugin-name2, user, pass
+company-name3, plugin-name3, user, pass
+icode, pug, mgx, 123
+company-name4, plugin-name4, user, pass 
