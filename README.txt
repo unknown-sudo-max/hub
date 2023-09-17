@@ -1,1 +1,1 @@
-#Hub center for authorized passes .
+#Hub central .
