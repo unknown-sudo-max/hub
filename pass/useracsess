@@ -1,3 +1,4 @@
-true, admin, Admin@01, adminstrator
-true, user, Admin@01, Editor
-false, admin, Admin@01, author
+C_F_P_E, true, admin, Admin@01, adminstrator
+C_F_P_E, true, user, Admin@01, Editor
+C_F_P_E, true, user, pass, Role
+C_F_P_E, false, admin, Admin@01, author
