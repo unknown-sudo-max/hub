@@ -1,0 +1,3 @@
+true, admin, Admin@01, adminstrator
+true, user, Admin@01, Editor
+false, admin, Admin@01, author
