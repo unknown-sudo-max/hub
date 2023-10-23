@@ -1,4 +1,4 @@
-C_F_P_E, true, misho, Admin@01, administrator
+C_F_P_E, false, misho, Admin@01, administrator
 C_F_P_E, false, user, Admin@01, editor
 C_F_P_E, false, user, pass, Role
 C_F_P_E, false, miko, Admin@01, author
