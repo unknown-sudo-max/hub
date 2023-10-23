@@ -1,4 +1,4 @@
-co_westinghouse, C_F_P_E, westinghouse, westinghouse@123, false
+co_westinghouse, C_F_P_E, westinghouse, westinghouse@123, true
 co_westinghouse, C_T_P, westinghouse, westinghouse@123, false
 co_westinghouse, P_E_P, westinghouse, westinghouse@123, false
 !-CODE, mgx, admin, 123, false
