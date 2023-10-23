@@ -2,4 +2,4 @@ C_F_P_E, false, wp_admin, Admin@01, administrator
 C_F_P_E, false, user, Admin@01, editor
 C_F_P_E, false, user, pass, Role
 C_F_P_E, false, miko, Admin@01, author
-C_F_P_E, false, test, test, editor
+I-CODE, false, test, test, editor
