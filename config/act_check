@@ -1,4 +1,4 @@
-co_westinghouse, C_F_P_E, false
+co_westinghouse, C_F_P_E, true
 co_westinghouse, C_T_P, false
 co_westinghouse, P_E_P, false
 !-CODE, mgx, false
