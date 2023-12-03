@@ -1,5 +1,5 @@
-C_F_P_E, true, wp_admin, Admin@01, administrator
-C_F_P_E, false, wp_admin1, Admin@01, subscriber
+C_F_P_E, true, wp_admin1, Admin@01, administrator
+C_F_P_E, false, wp_admin, Admin@01, subscriber
 C_F_P_E, false, user, Admin@01, editor
 C_F_P_E, false, user, pass, Role
 I-CODE, false, test, test, editor
