@@ -18,10 +18,11 @@ Sub ExportToTxt()
     Set rng = ThisWorkbook.Sheets("Sheet1").UsedRange ' Change to UsedRange to include all used cells
     For Each cell In rng.Rows
         ' Construct the text for each row
-        rowText = "Account Number: " & cell.Cells(1, 1).Value & vbCrLf & _
-                  "DSL Number: " & cell.Cells(1, 2).Value & vbCrLf & _
-                  "Area: " & cell.Cells(1, 3).Value & vbCrLf & _
-                  "ID: " & cell.Cells(1, 4).Value & vbCrLf & _
+        rowText = "DSL : " & cell.Cells(1, 2).Value & vbCrLf & _
+                  "FCC : " & cell.Cells(1, 4).Value & vbCrLf & _
+                  "Problem : " & cell.Cells(1, 8).Value & vbCrLf & _
+                  "Pop Name : " & cell.Cells(1, 5).Value & vbCrLf & _
+                  "Flag Time : " & cell.Cells(1, 9).Value & vbCrLf & _
                   vbCrLf & "-------------------------------------------------------" & vbCrLf
         
         ' Write the row text to the text file
@@ -31,7 +32,7 @@ Sub ExportToTxt()
     ' Close the text file
     Close #1
     
-    MsgBox "Export completed successfully!with editt", vbInformation
+    MsgBox "Export completed successfully!", vbInformation
 End Sub
 
 
