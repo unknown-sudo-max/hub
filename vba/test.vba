@@ -31,7 +31,7 @@ Sub ExportToTxt()
     ' Close the text file
     Close #1
     
-    MsgBox "Export completed successfully!with edit2", vbInformation
+    MsgBox "Export completed successfully!with editt", vbInformation
 End Sub
 
 
